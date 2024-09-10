@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, View } from "react-native";
-import { useState } from 'react';
+import { useState} from 'react';
 
 import * as ImagePicker from 'expo-image-picker'; // Make sure to import ImagePicker
 import Button from '@/components/Button';
